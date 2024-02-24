@@ -27,7 +27,7 @@ var overviewerConfig = {
     ],
     "map": {
         "debug": false,
-        "cacheTag": "1708714306",
+        "cacheTag": "1708749776",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -49,7 +49,7 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "Quabble",
-            "last_rendertime": 1708456921,
+            "last_rendertime": 1708729773,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
@@ -66,9 +66,7 @@ var overviewerConfig = {
                 80,
                 256
             ],
-            "north_direction": 0,
-            "render_in_progress": true,
-            "forcerendertime": 0
+            "north_direction": 0
         },
         {
             "name": "Nighttime",
@@ -79,7 +77,7 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "Quabble",
-            "last_rendertime": 1708456921,
+            "last_rendertime": 1708729773,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
@@ -96,9 +94,7 @@ var overviewerConfig = {
                 80,
                 256
             ],
-            "north_direction": 0,
-            "render_in_progress": true,
-            "forcerendertime": 0
+            "north_direction": 0
         },
         {
             "name": "Nether",
@@ -109,7 +105,7 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "Quabble",
-            "last_rendertime": 1708296121,
+            "last_rendertime": 1708726776,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
@@ -122,9 +118,7 @@ var overviewerConfig = {
             "lastrenderversion": 2,
             "minZoom": 0,
             "spawn": false,
-            "north_direction": 0,
-            "render_in_progress": true,
-            "forcerendertime": 0
+            "north_direction": 0
         }
     ]
 };
